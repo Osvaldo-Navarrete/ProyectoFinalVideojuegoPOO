@@ -1,4 +1,4 @@
-##Esta es una página hecha por osvaldo
+## Esta es una página hecha por osvaldo
 
 Puedes ir a mi página [PRINCIPAAAAAAL](https://www.youtube.com/results?search_query=hacer+tu+git+hub+paged) sd<adasfasdfasdgfadfgvzdvvzsvzsdvzsdvzvz<sds.
 
