@@ -1,6 +1,6 @@
-## AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+##Esta es una página hecha por osvaldo
 
-You can use the [editor on GitHub](https://github.com/OsvaldoNavarreteCotino/ProyectoFinalVideojuegoPOO/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Puedes ir a mi página [PRINCIPAAAAAAL](https://www.youtube.com/results?search_query=hacer+tu+git+hub+paged) sd<adasfasdfasdgfadfgvzdvvzsvzsdvzsdvzvz<sds.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
