@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome dsfsfsdfdsdfs
 
 You can use the [editor on GitHub](https://github.com/OsvaldoNavarreteCotino/ProyectoFinalVideojuegoPOO/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
-### Header 3
+### Headezssasr 3
 
 - Bulleted
 - List
